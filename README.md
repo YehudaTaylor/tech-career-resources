@@ -15,4 +15,5 @@ A collection of resources related to building a career in tech
 * https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/
 
 ## Career
+* https://engineering-progression.ft.com/competencies/
 * https://www.masterborn.com/blog/how-to-tell-if-youre-a-middle-or-senior-developer
