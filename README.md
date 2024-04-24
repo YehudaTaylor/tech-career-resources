@@ -18,3 +18,4 @@ A collection of resources related to building a career in tech
 * https://engineering-progression.ft.com/competencies/
 * https://www.masterborn.com/blog/how-to-tell-if-youre-a-middle-or-senior-developer
 * https://github.com/posquit0/awesome-engineering-ladders
+* https://github.com/postmodernistx/career-advice-for-juniors
